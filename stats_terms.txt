@@ -1,0 +1,154 @@
+
+3P
+3-Point Field Goals
+
+3P%
+3-Point Field Goal Percentage 3P / 3PA.
+
+3PA
+3-Point Field Goal Attempts
+
+Age
+Age; player age on January 1 of the given season.
+
+AST
+Assists
+
+BLK
+Blocks
+
+DRB
+Defensive Rebounds
+
+DRtg
+Defensive Rating; points allowed per 100 posessions. The formula for schools is 100 * (Opp PTS / Poss).
+
+DRtg/A
+Adjusted Defensive Rating; DRtg adjusted for strength of opponent offense.
+
+DWS
+Defensive Win Shares; an estimate of the number of wins contributed by a player due to his defense. Please see the article Calculating Win Shares for more information.
+
+eFG%
+Effective Field Goal Percentage; the formula is (FG + 0.5 * 3P) / FGA. This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal. For example, suppose Player A goes 4 for 10 with 2 threes, while Player B goes 5 for 10 with 0 threes. Each player would have 10 points from field goals, and thus would have the same effective field goal percentage (50%).
+
+FG
+Field Goals
+
+FG%
+Field Goal Percentage; the formula is FG / FGA.
+
+FGA
+Field Goal Attempts
+
+FT
+Free Throws
+
+FT%
+Free Throw Percentage; the formula is FT / FTA.
+
+FTA
+Free Throw Attempts
+
+G
+Games
+
+GB
+Games Behind; the formula is ((first W - W) + (L - first L)) / 2, where first W and first L stand for wins and losses by the first place school, respectively.
+
+GS
+Games Started
+
+GmSc
+Game Score; the formula is PTS + 0.4 * FG - 0.7 * FGA - 0.4*(FTA - FT) + 0.7 * ORB + 0.3 * DRB + STL + 0.7 * AST + 0.7 * BLK - 0.4 * PF - TOV. Game Score was created by John Hollinger to give a rough measure of a player's productivity for a single game. The scale is similar to that of points scored (40 is an outstanding performance, 10 is an average performance, etc.).
+
+L
+Losses
+
+L Pyth
+Pythagorean Losses; the formula is G - W Pyth.
+
+MVP
+Most Valuable Player
+
+MP
+Minutes Played
+
+NRtg
+Net Rating; point differential per 100 posessions. The formula for schools is 100 * ((PTS - Opp PTS) / Poss).
+
+NRtg/A
+Adjusted Net Rating; NRtg adjusted for strength of opponent.
+
+Opp
+Opponent
+
+ORB
+Offensive Rebounds
+
+OWS
+Offensive Win Shares; an estimate of the number of wins contributed by a player due to his offense. Please see the article Calculating Win Shares for more information.
+
+ORtg
+Offensive Rating; for players it is points produced per 100 posessions, while for schools it is points scored per 100 possessions. The formula for schools is 100 * (PTS / Poss).
+
+ORtg/A
+Adjusted Offensive Rating; ORtg adjusted for strength of opponent defense.
+
+Pace
+Pace Factor; an estimate of the number of possessions per team per 40 minutes. The formula is 40 * (Poss / (0.2 * Tm MP)).
+
+Per 30 Minutes
+A statistic (e.g., assists) divided by minutes played, multiplied by 30.
+
+Per Game
+A statistic (e.g., assists) divided by games.
+
+PF
+Personal Fouls
+
+PTS
+Points
+
+Poss
+Possessions; the formula for schools is 0.5 * (FGA + 0.475 * FTA - ORB + TOV) + 0.5 * (Opp FGA + 0.475 * Opp FTA - Opp ORB + Opp TOV).
+
+Schl
+School
+
+SOS
+Strength of Schedule; a rating of strength of schedule. The rating is denominated in points above/below average, where zero is average. Non-Division I games are excluded from the ratings. My colleague Doug Drinen of Pro-Football-Reference.com has written a great explanation of this method.
+
+STL
+Steals
+
+SRS
+Simple Rating System; a rating that takes into account average point differential and strength of schedule. The rating is denominated in points above/below average, where zero is average. Non-Division I games are excluded from the ratings. My colleague Doug Drinen of Pro-Football-Reference.com has written a great explanation of this method.
+
+TOV
+Turnovers
+
+TOV%
+Turnover Percentage; the formula is 100 * TOV / (FGA + 0.475 * FTA + TOV). Turnover percentage is an estimate of turnovers per 100 plays.
+
+TRB
+Total Rebounds
+
+TS%
+True Shooting Percentage; a measure of shooting efficiency that takes into account field goals, 3-point field goals, and free throws. The formula is PTS / (2 * (FGA + 0.475 * FTA)).
+
+W
+Wins
+
+W Pyth
+Pythagorean Wins; the formula is G * (PTS9 / (PTS9 + Opp PTS9)).
+
+W-L%
+Won-Lost Percentage; the formula is W / (W + L).
+
+WS
+Win Shares; an estimate of the number of wins contributed by a player due to his offense and defense. Please see the article Calculating Win Shares for more information.
+
+Year
+Year that the season occurred. Since the college season is split over two calendar years, the year given is the last year for that season. For example, the year for the 2008-09 season would be 2009.
+
